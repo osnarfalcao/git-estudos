@@ -2,7 +2,6 @@
 
 ## O que é git?
 
-## Para que serve ?
 
 ## Comandos mais utilizados:
 
@@ -30,3 +29,9 @@ git add *.txt
 git commit -m "mensagem"
 git commit -am "mensagem"
 ```
+
+#### verifica mudanca entre os arquivos
+```
+git diff 
+```
+
