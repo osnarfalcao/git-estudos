@@ -2,6 +2,7 @@
 
 ## O que é git?
 
+## Para que serve?
 
 ## Comandos mais utilizados:
 
@@ -30,8 +31,45 @@ git commit -m "mensagem"
 git commit -am "mensagem"
 ```
 
-#### verifica mudanca entre os arquivos
+#### Verifica mudanca entre os arquivos
 ```
 git diff 
 ```
 
+
+#### Exibir quem fez a mudanca 
+```
+git log 
+```
+
+
+#### Seta qual endereco remoto ira subir
+```
+git remote add nome-remote url-remote 
+
+git remote add origin git@github.com:osnarfalcao/git-estudos.git
+
+```
+
+#### Lista os remotes
+```
+git remote -v
+
+```
+
+#### Envia as mudancas para o repositorio remoto
+```
+git push 
+
+git push nome-remote nome-branch
+
+git push origin master
+
+```
+
+
+#### Criando a chave
+
+git push -u origin main
+
+ssh-keygen -t ed25519 -C "osnarfalcao@gmail.com"
