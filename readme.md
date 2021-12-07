@@ -87,3 +87,8 @@ Osnar falcao
 # Referencias
 
 https://blog.cedrotech.com/git-o-minimo-que-voce-precisa-saber-para-trabalhar-em-equipe-parte-2
+
+# ---------- 
+- estudar e documenta sobre linux da mesma forma do windows
+- atualizar meu linkedin: criterio, descricao, quem sou eu, oq estou estudando, oq eu qro pro futuro.
+- posta no linkedin o que eu apreendi.
