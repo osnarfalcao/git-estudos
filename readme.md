@@ -82,3 +82,6 @@ git pull origin master
 git push -u origin main
 
 ssh-keygen -t ed25519 -C "osnarfalcao@gmail.com"
+
+# Autor
+Osnar falcao
