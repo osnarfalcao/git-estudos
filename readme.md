@@ -67,6 +67,15 @@ git push origin master
 
 ```
 
+#### Puxa as mudancas que estao no repositorio remoto
+```
+git pull
+
+git pull nome-remote nome-branch
+
+git pull origin master
+
+```
 
 #### Criando a chave
 
