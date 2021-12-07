@@ -83,3 +83,7 @@ ssh-keygen -t ed25519 -C "osnarfalcao@gmail.com"
 
 # Autor
 Osnar falcao
+
+# Referencias
+
+https://blog.cedrotech.com/git-o-minimo-que-voce-precisa-saber-para-trabalhar-em-equipe-parte-2
