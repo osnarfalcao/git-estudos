@@ -80,3 +80,6 @@ git pull origin master
 #### Criando a chave
 
 ssh-keygen -t ed25519 -C "osnarfalcao@gmail.com"
+
+# Autor
+Osnar falcao
