@@ -24,3 +24,9 @@ git add .
 git add *.txt
 
 ```
+
+#### Registrando mudanca com commit
+```
+git commit -m "mensagem"
+git commit -am "mensagem"
+```
